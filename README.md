@@ -1,5 +1,4 @@
-portaudio-playground
-====================
+elf-builder
+===========
+Based on https://github.com/vishen/go-x64-executable
 
-### Using
-- [dirkarnez/portaudio-prebuilt](https://github.com/dirkarnez/portaudio-prebuilt)
